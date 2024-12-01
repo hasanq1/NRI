@@ -293,23 +293,28 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
-  subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+  title: "Insights",
+  subtitle: "Sharing knowledge and expertise through articles that inspire, educate, and drive innovation.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://www.spaceforce.mil/News/Article-Display/Article/3630536/ussf-accepting-proposals-for-third-research-opportunity-under-the-ussf-universi/",
+      title: "USSF Accepting Proposals for Third Research Opportunity",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Explore the latest opportunity to collaborate with the U.S. Space Force under the University Consortium Research Initiative. Submit your proposal today!"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://www.afrl.af.mil/News/Article-Display/Article/3875021/strategic-improvements-unveiled-for-afwerxs-open-topic-program/",
+      title: "Strategic Improvements Unveiled for AFWERX's Open Topic Program",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
+        "Discover the latest enhancements to AFWERX's Open Topic Program, designed to streamline innovation and collaboration with industry and academia.",
+    },
+    {
+      url: "https://aws.amazon.com/what-is/devsecops/",
+      title: "What is DevSecOps?",
+      description:
+        "Learn how DevSecOps integrates security into every phase of the software development lifecycle, enabling faster and more secure deployments.",
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -335,11 +340,10 @@ const resumeSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  title: emoji("Get in Touch"),
+  subtitle: "Looking to discuss a project or explore collaboration opportunities? We're here to help. Reach out today.",
+  number: "832-619-9135",
+  email_address: "hqureshi@nebulousresearch.com",
 };
 
 // Twitter Section
