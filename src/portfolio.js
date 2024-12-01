@@ -264,8 +264,8 @@ const achievementSection = {
       title: "Melissa Thompson, managing partner",
       subtitle:
         "As a former Multi-Disciplined Language Analyst with the U.S. Air Force and a graduate of the University of Texas at San Antonio with a B.S. in Psychology, I currently specialize in human resources, industrial technological research and business integration.",
-      image: require("./assets/images/mt.jpeg"),
-      imageAlt: "Google Assistant Action Logo",
+      image: require("./assets/images/mt.png"),
+      imageAlt: "Melissa Thompson picture",
       footerLink: [
         {
           name: "Linkedin",
