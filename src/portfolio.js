@@ -251,7 +251,7 @@ const achievementSection = {
     {
       title: "Hasan Qureshi, managing partner",
       subtitle:
-        "With a BS in Computer Science and a passion for innovation, I serve as a Software Engineer and proud member of the United States Air Force. Currently pursuing a Master’s degree at Texas A&M, I specialize in merging technical expertise with leadership to tackle complex challenges in technology and defense.",
+        "With a B.S. in Computer Science and a passion for innovation, currently Software Engineer and a member of the United States Air Force. Currently pursuing a Master’s degree at Texas A&M, I specialize in merging technical expertise with leadership to tackle complex challenges in technology and defense.",
       image: require("./assets/images/hq.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -263,7 +263,7 @@ const achievementSection = {
     {
       title: "Melissa Thompson, managing partner",
       subtitle:
-        "As a former Multi-Disciplined Chinese Mandarin Language Analyst with the U.S. Air Force and a graduate of the University of Texas at San Antonio with a B.S. in Psychology, I currently specialize in human resources, industrial technological research and business integration.",
+        "As a former Multi-Disciplined Language Analyst with the U.S. Air Force and a graduate of the University of Texas at San Antonio with a B.S. in Psychology, I currently specialize in human resources, industrial technological research and business integration.",
       image: require("./assets/images/mt.jpeg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
