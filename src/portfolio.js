@@ -20,11 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Nebulous Research Inc",
-  title: "Welcome to Nebulous Research Inc.",
+  username: "Nebulous Research inc.",
+  title: "Welcome to Nebulous Research",
   subTitle:
-    "We are a dedicated team committed to advancing innovation in space and defense through cutting-edge research, strategic partnerships, and transformative technologies."
-  ,
+  "We are a nonprofit organization devoted to advancing innovation in space and defense through cutting-edge research, strategic partnerships, and transformative technologies, all while prioritizing mission-driven collaboration and societal impact.",
   resumeLink:
     "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
