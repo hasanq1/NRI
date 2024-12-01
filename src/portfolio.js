@@ -245,7 +245,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Who We Are "),
   subtitle:
-    "Founded by",
+    "Founders and thier Biographies",
   achievementsCards: [
     {
       title: "Hasan Qureshi, managing partner",
