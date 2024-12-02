@@ -15,7 +15,7 @@ export default function Footer() {
           {emoji("© 2024 Nebulous Research Inc. All rights reserved.")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Designed and developed by the Nebulous Research team.
+          Rapidly developed by the Nebulous Research team.
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           <a
