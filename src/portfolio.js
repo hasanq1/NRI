@@ -342,7 +342,7 @@ const contactInfo = {
   title: emoji("Get in Touch"),
   subtitle: "Looking to discuss a project or explore collaboration opportunities? We're here to help. Reach out today.",
   number: "832-619-9135",
-  email_address: "hqureshi@nebulousresearch.com",
+  email_address: "researchsupport@nebulousresearch.com ",
 };
 
 // Twitter Section

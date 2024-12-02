@@ -67,6 +67,7 @@ function Header() {
           </li>
         </ul>
       </header>
+      <hr></hr>
     </Headroom>
   );
 }
