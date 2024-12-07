@@ -250,7 +250,7 @@ const achievementSection = {
     {
       title: "Hasan Qureshi, managing partner",
       subtitle:
-        "With a B.S. in Computer Science and a passion for innovation, currently Software Engineer and a member of the United States Air Force. Currently pursuing a Master’s degree at Texas A&M, I specialize in merging technical expertise with leadership to tackle complex challenges in technology and defense.",
+        "As a Software Engineer and member of the U.S. Air Force with a B.S. in Computer Science, I specialize in leveraging technical expertise and systems management to address challenges in technology and defense while pursuing a Master's at Texas A&M.",
       image: require("./assets/images/hq.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
